@@ -4,7 +4,7 @@
 - 👨🏿‍💻 Languages - Javascript | Nodejs | Typescript | Python | Php 
 - 🤙🏿 No-Code Tools - Webflow | WordPress
 - 👨🏿‍🎨 UI/UX Design Tools - Figma | Adobe XD
-- 📫 Reach me @jam00518@students.stir.ac.uk or twitter @twitter.com/yhhchale. 
+- 📫 Reach me @jam00518@students.stir.ac.uk or twitter.com/yhhchale. 
 
 <!---
 yhhchale/yhhchale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
