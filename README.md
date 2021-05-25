@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @yhhchale.
-- ✍🏿 My real name is Jesse Mensah. 
-- 🌱 Skills - React | Django | Lavarel
-- 👨🏿‍💻 Languages - Javascript | Nodejs | Typescript | Python | Php 
-- 🤙🏿 No-Code Tools - Webflow | WordPress
-- 👨🏿‍🎨 UI/UX Design Tools - Figma | Adobe XD
+- ✍🏿 My real name is Jesse Mensah in the United Kingdom. 
+- 🌱 Skills - Data Analytics & Machine Learning 
+- 👨🏿‍💻 Languages - Python & Swift 
 - 📫 Reach me @jam00518@students.stir.ac.uk or twitter.com/yhhchale. 
 
 <!---
