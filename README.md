@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @yhhchale.
-- ✍🏿 My real name is Jesse Mensah in the United Kingdom. 
-- 🌱 Skills - Data Analytics & Machine Learning 
-- 👨🏿‍💻 Languages - Python & Swift 
+- ✍🏿 My real name is Jesse Mensah. 
+- 🌱 Skills => Analytics | Product Design 
+- 👨🏿‍💻 Languages => Python | Swift 
+- 🛠 Tools => Xcode | Adobe XD | VSCode | Anaconda 
 - 📫 Reach me @jam00518@students.stir.ac.uk or twitter.com/yhhchale. 
 
 <!---
